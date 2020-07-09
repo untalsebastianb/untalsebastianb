@@ -1,10 +1,16 @@
-                                                Hi there! welcome to my github 👨🏻‍💻
-                                                🔺 Who am I❓
-                                                An Entusiasthic developer in progress, passionate about web development and full stack tecnologies 🌐
+                                    Hi there! welcome to my github 👨🏻‍💻
+                                    🔻 Who am I❓
+                                    An Entusiasthic developer in progress, passionate about web development 🌐
+                                    Currently an student at Holberton School.
+                                    📍 Cali - Colombia
 ![An image is suposed to be here... Sorry](https://github.com/sebastianbm9507/repostuff/blob/master/262E0BF8-808B-4A9C-8666-E4A11FDF8B20-5374-000003D1117DF55B%202.jpg)
-```
-                                                🎈 I hope you find what you were looking for 
-```
+
+                                    🎈 I hope you find what you were looking for.
+                                    📫 How to reach me: juan.bueno01@usc.edu.co
+                              ⚡️ Twitter: untalsebastianb   📷 IG: untalsebastianbueno
+               
+                                     
+
 <!--
 **sebastianbm9507/sebastianbm9507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
