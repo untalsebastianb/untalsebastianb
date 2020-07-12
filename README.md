@@ -1,13 +1,15 @@
-                                    Hi there! welcome to my github 👨🏻‍💻
-                                    🔻 Who am I❓
-                                    An Entusiasthic developer in progress, passionate about web development 🌐
-                                    Currently an student at Holberton School.
-                                    📍 Cali - Colombia
-![An image is suposed to be here... Sorry](https://github.com/sebastianbm9507/repostuff/blob/master/pants.JPG)
+                                     Hi there! welcome to my github 👨🏻‍💻 
+                                     ⚫️ Who am I❔
+                                     An Entusiasthic developer in progress, passionate about web development.
+                                     Minimalist Lover ⾂
+                                     Currently an student at Holberton School. 📓
+                                     🏴 Cali - Colombia
+![An image is suposed to be here... Sorry](https://github.com/sebastianbm9507/repostuff/blob/master/HA-Wallpaper-Dark-Urban-Laptop.jpg)
 
-                                    🎈 I hope you find what you were looking for.
-                                    📫 How to reach me: juan.bueno01@usc.edu.co
-                              ⚡️ Twitter: untalsebastianb   📷 IG: untalsebastianbueno
+                                     𝌼 I hope you find what you were looking for.
+                                     ⚫️ How to reach me❔: juan.bueno01@usc.edu.co
+                              ⚡️ Twitter: untalsebastianb   ♠️ IG: untalsebastianbueno
+                              
                
                                      
 
