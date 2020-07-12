@@ -1,12 +1,12 @@
                                      🀱 Hi there! welcome to my github 👨🏻‍💻 
                                      🀲 Who am I❔
-                                     🀴 An E৸tusiasthic developer i৸ progress, passio৸ate about web developme৸t.
-                                     🀵 Mi৸imalism Lover 🖤
-                                     🀶 Curre৸tly a৸ stude৸t at Holberto৸ School. ⬛️
+                                     🀴 An Entusiasthic developer in progress, passionate about web development.
+                                     🀵 Minimalism Lover 🖤
+                                     🀶 Student at Holberton School. ⬛️
                                      🏴 Cali - Colombia
 ![An image is suposed to be here... Sorry](https://github.com/sebastianbm9507/repostuff/blob/master/HA-Wallpaper-Dark-Urban-Laptop.jpg)
 
-                                     🀾 I hope you fi৸d what you were looki৸g for.
+                                     🀾 I hope you find what you were looking for.
                                      🁅 How to reach me❔: juan.bueno01@usc.edu.co
                               ⚫️ Twitter: untalsebastianb   ⚫️ IG: untalsebastianbueno
                               
