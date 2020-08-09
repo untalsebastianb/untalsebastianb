@@ -6,7 +6,7 @@
 <br>
 <p align="center"><img align=center src="https://github.com/untalsebastianb/repostuff/blob/master/pic_circle.png" alt="profile_pic" width="200" height="200"></p>
 <!-- Description -->
-<h3 align="center">An entusiasthic developer in progress, passionate about web development.</h3>
+<h3 align="center">An entusiasthic developer in progress, passionate about web development</h3>
 <h3 align="center" text-decoration="none">I’m currently a student at Holberton School 👨🏻‍💻</h3>
 <h3 align="center">Minimalist lover ♟</h4>
 <br>
@@ -20,6 +20,9 @@
 <img src="https://github.com/untalsebastianb/repostuff/blob/master/c.png" alt="c programming" width="50" height="50"/>
 <img src="https://github.com/untalsebastianb/repostuff/blob/master/py.png" alt="python" width="50" height="50"/>
 </p>
+<!-- Social media QR -->
+<h4 align="center">Social Media</h4>
+<p align="center"><img align=center src="https://github.com/untalsebastianb/repostuff/blob/master/round_qr.png" width="100" height="100"></p>
 <!-- logos 
 <p align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="50" height="50"/></p>
