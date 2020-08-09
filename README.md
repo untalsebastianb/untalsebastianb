@@ -1,3 +1,5 @@
+
+<p align="left"><img src="https://github.com/untalsebastianb/repostuff/blob/master/buttons.png" alt="css3" width="300" height="200"/></p>
 <!-- Header  -->
 <h1 align="center">Hi 👋, I'm Juan Sebastian Bueno</h1>
 <!-- Profile pic  -->
