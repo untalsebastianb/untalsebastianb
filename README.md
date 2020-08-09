@@ -10,8 +10,12 @@
 <br>
 <!-- Skills -->
 <h4 align="center"> Pocket Skills </h4>
+<p align="center"><img src="https://github.com/untalsebastianb/repostuff/blob/master/bash.png" alt="bash" width="46" height="46"/> <img src="https://github.com/untalsebastianb/repostuff/blob/master/css.png" alt="css3" width="50" height="50"/> <img src="https://github.com/untalsebastianb/repostuff/blob/master/html.png" alt="html5" width="50" height="50"/> <img src="https://github.com/untalsebastianb/repostuff/blob/master/js.png" alt="javascript" width="50" height="50"/> <img src="https://github.com/untalsebastianb/repostuff/blob/master/py.png" alt="python" width="50" height="50"/>
+<img src="https://github.com/untalsebastianb/repostuff/blob/master/c.png" alt="c" width="50" height="50"/></p>
+<!-- logos 
 <p align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="50" height="50"/></p>
+-->
 <!-- Social Media -->
 <p align="right">
  👉🏻
