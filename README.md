@@ -18,6 +18,5 @@
 <a href="https://instagram.com/untalsebastianb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="untalsebastianb" height="30" width="30" /></a>
 <a href="https://medium.com/@@sebastianbueno_60659" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@@sebastianbueno_60659" height="30" width="30" /></a>
 </p>
-<strong><em><p align="right">Social media</p></em></strong>
 <!-- Visitor counter -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=untalsebastianb" alt="untalsebastianb" /> </p>
