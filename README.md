@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Juan Sebastian Bueno</h1>
 <!-- Profile pic  -->
 <br>
-<p align="center"><img align=center src="https://github.com/untalsebastianb/repostuff/blob/master/pic_circle.png" alt="profile_pic" width="230" height="230"></p>
+<p align="center"><img align=center src="https://github.com/untalsebastianb/repostuff/blob/master/pic_circle.png" alt="profile_pic" width="300" height="300"></p>
 <br>
 <!-- Description -->
-<h3 align="center">An entusiasthic developer in progress, passionate about web development.</h3>
-<h3 align="center">I’m currently a student at Holberton School 👨🏻‍💻</h3>
-<h3 align="center">Minimalist lover ♟</h3>
+<h4 align="center">An entusiasthic developer in progress, passionate about web development.</h4>
+<h4 align="center" text-decoration="none">I’m currently a student at Holberton School 👨🏻‍💻</h4>
+<h4 align="center">Minimalist lover ♟</h4>
 <br>
 
 
@@ -20,6 +20,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=untalsebastianb&show_icons=true" alt="untalsebastianb" />
 </div>
 -->
+<br>
 <br>
 <!-- Stats -->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=untalsebastianb&show_icons=true" alt="untalsebastianb" /><p/>
