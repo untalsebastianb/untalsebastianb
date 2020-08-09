@@ -29,4 +29,4 @@
 <a href="https://medium.com/@@sebastianbueno_60659" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@@sebastianbueno_60659" height="30" width="30" /></a>
 </p>
 
-<p align="center">📝 I regulary write articles on Medium and Linkedin</p>
+<strong><em><p align="center">Social media</p></em></strong>
