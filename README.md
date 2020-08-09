@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Juan Sebastian Bueno</h1>
 <!-- Profile pic  -->
 <br>
-<p align="center"><img align=center src="https://github.com/untalsebastianb/repostuff/blob/master/pic_circle.png" alt="profile_pic" width="200" height="200"></p>
+<p align="center"><img align=center src="https://github.com/untalsebastianb/repostuff/blob/master/another.png" alt="profile_pic" width="200" height="200"></p>
 <!-- Description -->
 <h3 align="center">An entusiasthic developer in progress, passionate about web development</h3>
 <h3 align="center" text-decoration="none">I’m currently a student at Holberton School 👨🏻‍💻</h3>
