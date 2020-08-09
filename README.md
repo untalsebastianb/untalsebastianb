@@ -2,13 +2,10 @@
 <h1 align="center">Hi 👋, I'm Juan Sebastian Bueno</h1>
 <h3 align="center">An Entusiasthic developer in progress, passionate about web development.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=untalsebastianb" alt="untalsebastianb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=untalsebastianb" alt="untalsebastianb" /> </p>
 
 - 📝 I regulary write articles on [Medium and Linkedin](Medium and Linkedin)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><img align="center" src="https://github-readme-stats.vercel.app/api?username=untalsebastianb&show_icons=true" alt="untalsebastianb" />
 
@@ -16,24 +13,4 @@
 <a href="https://twitter.com/untalsebastianb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="untalsebastianb" height="30" width="30" /></a>
 <a href="https://instagram.com/untalsebastianb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="untalsebastianb" height="30" width="30" /></a>
 <a href="https://medium.com/@@sebastianbueno_60659" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@@sebastianbueno_60659" height="30" width="30" /></a>
-</p>                              
-
-<p align="center">📝 I regulary write articles on [Medium and Linkedin](Medium and Linkedin)</p>
-                                
-               
-                                     
-
-<!--
-**sebastianbm9507/sebastianbm9507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
