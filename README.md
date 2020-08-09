@@ -14,9 +14,11 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="50" height="50"/></p>
 <!-- Social Media -->
 <p align="right">
+ 👉🏻
 <a href="https://twitter.com/untalsebastianb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="untalsebastianb" height="20" width="20" /></a>
 <a href="https://instagram.com/untalsebastianb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="untalsebastianb" height="20" width="20" /></a>
 <a href="https://medium.com/@@sebastianbueno_60659" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@@sebastianbueno_60659" height="20" width="20" /></a>
 </p>
+
 <!-- Visitor counter -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=untalsebastianb" alt="untalsebastianb" /> </p>
