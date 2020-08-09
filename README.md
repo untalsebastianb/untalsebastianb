@@ -9,13 +9,11 @@
 <h3 align="center">An entusiasthic developer in progress, passionate about web development</h3>
 <h3 align="center" text-decoration="none">I’m currently a student at Holberton School 👨🏻‍💻</h3>
 <h3 align="center">Minimalist lover ♟</h4>
-<br>
 <!-- Social media QR -->
 <h6 align="center"><em><br>Social Media QR </em></h6>
 <p align="center">
  <img align=center src="https://github.com/untalsebastianb/repostuff/blob/master/social_media_qr.png" width="130" height="130">
- 
-<br>
+
 <!-- Skills -->
 <h4 align="center"> Frontend Skills </h4>
 <p align="center"><img src="https://github.com/untalsebastianb/repostuff/blob/master/css.png" alt="css3" width="50" height="50"/> <img src="https://github.com/untalsebastianb/repostuff/blob/master/html.png" alt="html5" width="50" height="50"/> <img src="https://github.com/untalsebastianb/repostuff/blob/master/js.png" alt="javascript" width="50" height="50"/>
