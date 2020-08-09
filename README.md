@@ -1,6 +1,8 @@
-![An image is suposed to be here... Sorry](https://github.com/untalsebastianb/repostuff/blob/master/HA-Wallpaper-Dark-Urban-Laptop.jpg)
 <!-- Header  -->
 <h1 align="center">Hi 👋, I'm Juan Sebastian Bueno</h1>
+<!-- Profile pic  -->
+<p align="center"><img align=center src="https://github.com/untalsebastianb/repostuff/blob/master/pic_circle.png" alt="profile_pic" width="200" height="200"></p>
+
 <h3 align="center">An entusiasthic developer in progress, passionate about web development.</h3>
 <h3 align="center">I’m currently a student at Holberton School</h3>
 <h3 align="center">Minimalist lover</h3>
@@ -16,7 +18,11 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=untalsebastianb&show_icons=true" alt="untalsebastianb" />
 </div>
 -->
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <p align="center">
 <a href="https://twitter.com/untalsebastianb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="untalsebastianb" height="30" width="30" /></a>
 <a href="https://instagram.com/untalsebastianb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="untalsebastianb" height="30" width="30" /></a>
