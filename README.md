@@ -1,26 +1,30 @@
 <!-- Header  -->
 <h1 align="center">Hi 👋, I'm Juan Sebastian Bueno</h1>
 <!-- Profile pic  -->
-<p align="center"><img align=center src="https://github.com/untalsebastianb/repostuff/blob/master/pic_circle.png" alt="profile_pic" width="200" height="200"></p>
-
+<br>
+<p align="center"><img align=center src="https://github.com/untalsebastianb/repostuff/blob/master/pic_circle.png" alt="profile_pic" width="230" height="230"></p>
+<br>
+<!-- Description -->
 <h3 align="center">An entusiasthic developer in progress, passionate about web development.</h3>
-<h3 align="center">I’m currently a student at Holberton School</h3>
-<h3 align="center">Minimalist lover</h3>
+<h3 align="center">I’m currently a student at Holberton School 👨🏻‍💻</h3>
+<h3 align="center">Minimalist lover ♟</h3>
+<br>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=untalsebastianb" alt="untalsebastianb" /> </p>
 
 <!-- Skills -->
-<h4 align="center"> Pocket Skills </h4>
-<p align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+<h3 align="center"> Pocket Skills </h3>
+<p align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="50" height="50"/></p>
 <!-- Stats 
 <div text-align="center" display="block">
 <img  src="https://github-readme-stats.vercel.app/api?username=untalsebastianb&show_icons=true" alt="untalsebastianb" />
 </div>
 -->
 <br>
-<br>
-<br>
+<!-- Stats -->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=untalsebastianb&show_icons=true" alt="untalsebastianb" /><p/>
+<!-- Visitor counter -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=untalsebastianb" alt="untalsebastianb" /> </p>
 <br>
 <br>
 <p align="center">
