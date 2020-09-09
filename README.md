@@ -12,7 +12,7 @@
 <!-- Social media QR -->
 <h6 align="center"><em><br>Social Media QR </em></h6>
 <p align="center">
- <img align=center src="https://github.com/untalsebastianb/repostuff/blob/master/social_media_qr.png" width="130" height="130">
+ <img align=center src="https://github.com/untalsebastianb/repostuff/blob/master/Twitter%20QR-code.png" width="130" height="130">
 
 <!-- Skills -->
 <h4 align="center"> Frontend Skills </h4>
