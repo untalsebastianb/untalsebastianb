@@ -6,7 +6,7 @@
 <br>
 <p align="center"><img align=center src="https://github.com/untalsebastianb/repostuff/blob/master/as.png" alt="profile_pic" width="200" height="200"></p>
 <!-- Description -->
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">  iOS Developer</h3>
 <h3 align="center">Minimalist lover ♟</h4>
 <!-- Social media QR -->
 <h6 align="center"><em><br>Social Media QR </em></h6>
