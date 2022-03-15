@@ -32,7 +32,7 @@
 <!-- Social Media -->
 <p align="right">
 <a href="https://twitter.com/untalsebastianb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="untalsebastianb" height="20" width="20" /></a>
-<a href="https://instagram.com/untalsebastianb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="untalsebastianb" height="20" width="20" /></a>
+<a href="https://instagram.com/untalsebastianbueno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="untalsebastianbueno" height="20" width="20" /></a>
 <a href="https://medium.com/@@sebastianbueno_60659" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@@sebastianbueno_60659" height="20" width="20" /></a>
 </p>
 
